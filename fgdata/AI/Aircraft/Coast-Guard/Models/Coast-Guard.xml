@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<!-- Coast-Guard model config file -->
+<!-- Aether 2025 -->
+
+<PropertyList include="Coast-Guard-bombableinclude.xml">
+
+
+
+        <description>Coast-Guard</description>
+
+	<path>AI/Aircraft/Coast-Guard/Models/coastguard-icebreaker.ac</path>
+
+        <texture-path>AI/Aircraft/Coast-Guard/Models</texture-path>
+
+        
+
+</PropertyList>

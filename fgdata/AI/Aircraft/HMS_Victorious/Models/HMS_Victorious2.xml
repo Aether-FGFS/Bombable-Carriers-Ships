@@ -1,0 +1,10 @@
+<PropertyList include="HMS_Victorious-bombableinclude.xml">
+
+        <description>HMS_Victorious</description>
+
+	<path>AI/Aircraft/HMS_Victorious/Models/hms_victorious_r38.ac</path>
+
+        <texture-path>AI/Aircraft/HMS_Victorious/Models</texture-path>
+       
+
+</PropertyList>
