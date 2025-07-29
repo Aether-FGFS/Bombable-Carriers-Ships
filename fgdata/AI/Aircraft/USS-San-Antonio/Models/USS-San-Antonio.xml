@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<!-- USS-San-Antonio model config file -->
+<!-- Aether 2025 -->
+
+<PropertyList include="USS-San-Antonio-bombableinclude.xml">
+
+
+
+        <description>USS-San-Antonio</description>
+
+	<path>AI/Aircraft/USS-San-Antonio/Models/CG47.ac</path>
+
+        <texture-path>AI/Aircraft/USS-San-Antonio/Models</texture-path>
+
+        
+
+ 
+
+</PropertyList>

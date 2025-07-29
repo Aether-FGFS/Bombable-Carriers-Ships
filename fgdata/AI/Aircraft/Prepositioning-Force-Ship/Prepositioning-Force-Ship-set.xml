@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="Models/Prepositioning-Force-Ship.xml">
+
+  <model>
+    <path>AI/Aircraft/Prepositioning-Force-Ship/Models/Prepositioning-Force-Ship.xml</path>
+  </model>
+
+</PropertyList>

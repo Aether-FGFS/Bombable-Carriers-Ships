@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<!-- USS-Lake-Champlain model config file -->
+<!-- Aether 2025 -->
+
+<PropertyList include="USS-Lake-Champlain-bombableinclude.xml">
+
+
+
+        <description>USS-Lake-Champlain</description>
+
+	<path>AI/Aircraft/USS-Lake-Champlain/Models/CG57.ac</path>
+
+        <texture-path>AI/Aircraft/USS-Lake-Champlain/Models</texture-path>
+
+        
+
+
+</PropertyList>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="Models/Oliver-Perry.xml">
+
+  <model>
+    <path>AI/Aircraft/Oliver-Perry/Models/Oliver-Perry.xml</path>
+  </model>
+
+</PropertyList>
