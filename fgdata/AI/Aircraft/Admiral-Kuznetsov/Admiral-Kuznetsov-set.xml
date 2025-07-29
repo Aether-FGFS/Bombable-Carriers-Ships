@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="Models/Admiral-Kuznetsov.xml">
+
+  <model>
+    <path>AI/Aircraft/Admiral-Kuznetsov/Models/Admiral-Kuznetsov.xml</path>
+  </model>
+
+</PropertyList>
