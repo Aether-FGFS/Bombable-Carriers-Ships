@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<!-- Prepositioning-Force-Ship model config file -->
+<!-- Aether 2025 -->
+
+<PropertyList include="Prepositioning-Force-Ship-bombableinclude.xml">
+
+        <description>Prepositioning-Force-Ship</description>
+
+	<path>Aircraft/Prepositioning-Force-Ship/Models/MaritimePrepositioningForceShip.ac</path>
+
+        <texture-path>Aircraft/Prepositioning-Force-Ship/Models</texture-path>
+	
+</PropertyList>
