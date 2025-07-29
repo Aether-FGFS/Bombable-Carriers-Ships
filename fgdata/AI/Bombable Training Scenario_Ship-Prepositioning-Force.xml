@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+ <scenario>
+   <description>Prepositioning-Force-Ship Training scenario.  Starts at KSFO! </description>
+		
+    <entry>
+      <search-order>PREFER_AI</search-order>
+      <type>ship</type>
+      <callsign>Prepositioning-Force-Ship</callsign>
+      <name>Prepositioning-Force-Ship</name>
+      <model type="string">Aircraft/Prepositioning-Force-Ship/Models/Prepositioning-Force-Ship.xml</model>
+      <latitude type="double">37.608200</latitude>
+      <longitude type="double">-122.2902</longitude>
+      <altitude>0</altitude>
+      <speed>12.0</speed>
+      <rudder type="double">25</rudder>
+      <heading type="double">110</heading>
+    </entry>
+
+ </scenario>
+
+</PropertyList>
+

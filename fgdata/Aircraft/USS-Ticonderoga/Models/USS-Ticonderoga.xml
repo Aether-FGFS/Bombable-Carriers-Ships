@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<!-- USS-Ticonderoga model config file -->
+<!-- Aether 2025 -->
+
+<PropertyList include="USS-Ticonderoga-bombableinclude.xml">
+
+        <description>USS-Ticonderoga</description>
+
+	<path>Aircraft/USS-Ticonderoga/Models/CG471.ac</path>
+
+        <texture-path>Aircraft/USS-Ticonderoga/Models</texture-path>
+	
+</PropertyList>
