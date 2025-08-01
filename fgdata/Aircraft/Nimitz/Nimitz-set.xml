@@ -30,7 +30,7 @@
 			</submodels>
 
     <startup>
-     <splash-texture>Aircraft/Nimitz/Nimitz-splash.rgb</splash-texture>
+     <splash-texture>Aircraft/Nimitz/Nimitz-splash.png</splash-texture>
     </startup>
 
 
