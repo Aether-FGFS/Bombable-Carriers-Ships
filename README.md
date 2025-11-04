@@ -1,7 +1,7 @@
 This are Bombable Carriers and Ships for Flightgear Flight Simulator and Bombable-5.0 addon. 
 ____________________________________________________________________________________________
 
-To use Bombable-Carriers-Ships, install Bombabl-5.0 updated by Helijah. Install it as addon module into Flightgear.
+To use Bombable-Carriers-Ships, install Bombable-5.0 updated by Helijah. Install it as addon module into Flightgear.
 
 Installation of Bombable-Carriers-Ships: Copy AI and Aircraft folder from Bombable-Carriers-Ships and paste it into your Flightgear installation under fgdata folder. You can add Bombable-Objects to custom folder, and register it in FGFS, but AI must be added into fgdata/AI. AI folder contains AI Scenarios for Bombable-Objects.
 
