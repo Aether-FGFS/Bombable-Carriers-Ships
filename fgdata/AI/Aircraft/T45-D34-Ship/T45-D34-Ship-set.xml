@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="Models/T45-D34-Ship.xml">
+
+  <model>
+    <path>AI/Aircraft/T45-D34-Ship/Models/T45-D34-Ship.xml</path>
+  </model>
+
+</PropertyList>
