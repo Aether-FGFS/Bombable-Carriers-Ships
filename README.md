@@ -1,4 +1,4 @@
-This are Bombable Carriers and Ships for Flightgear Flight Simulator and Bombable-5.0 addon. 
+This are Bombable Carriers and Ships for Flightgear Flight Simulator and Bombable-6.0 addon. 
 ____________________________________________________________________________________________
 
 To use Bombable-Carriers-Ships, install Bombable-5.0 updated by Helijah. Install it as addon module into Flightgear.
